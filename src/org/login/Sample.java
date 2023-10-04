@@ -7,6 +7,9 @@ public class Sample {
 		String s = "Malayalam";
 		
 		s.contains("m");
+		System.out.println("Working on Calls");
+		System.out.println("Done by QA");
+		System.out.println("Running Fine in Local");
 	}
 
 }
